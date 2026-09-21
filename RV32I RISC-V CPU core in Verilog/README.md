@@ -22,9 +22,3 @@ Final x1 (sum)   = 55  (expected 55)
 dmem[0]          = 55  (expected 55)
 RESULT: PASS
 ```
-
-## What to show on GitHub
-- The two source files.
-- A screenshot of the console trace showing PC / instruction / registers per cycle.
-- A screenshot of the EPWave waveform (clock, PC, x1, x2).
-- The instruction table in the source comments.
